@@ -1,3 +1,4 @@
+```
 import json
 class LeoFibonacci:
   def __repr__(self):
@@ -14,7 +15,7 @@ class LeoFibonacci:
     })
 me = LeoFibonacci()
 print(me)
-
+```
 <!---
 anofibonacci/anofibonacci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
