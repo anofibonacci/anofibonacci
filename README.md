@@ -2,21 +2,18 @@ import json
 class LeoFibonacci:
   def __repr__(self):
     return json.dumps({
-      'code': ['Java', 'JavaScript', 'Perl', 'PHP', 'Python'],
-      'tools': ['Flask', 'Sveltekit'],
-      'coaching': ['adaptive/agile', 'team structures', 'system design'],
-      'been_at_it_since': 1996
+      'really_good_at': ['facilitating', 'teaching'],
+      'availability': ['open'],
+      'coaching': ['adaptive delivery', 'team structures', 'backlog mgmt'],
+      'code': ['JavaScript', 'Perl', 'PHP'],
+      'code_quality': ['2'],
+      'currently_learning': ['nostr', 'svelte', 'lightning'],
+      'interested_in': ['bitcoin', 'macroeconomics', 'freedom tech', 'climate news', 'solar weather', 'ancient aliens'],
+      'also_into': ['podcasting', 'reading', 'video production', 'hosting hackathons, openspace, etc'],
+      'been_at_it_since': 1994
     })
 me = LeoFibonacci()
 print(me)
-
-<!---
-- 👋 Hi, I’m @anofibonacci
-- 👀 I’m interested in ... freedom tech
-- 🌱 I’m currently learning ... Nostr, Svelte
-- 💞️ I’m looking to collaborate on ... learning
-- 📫 How to reach me ...
---->
 
 <!---
 anofibonacci/anofibonacci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
