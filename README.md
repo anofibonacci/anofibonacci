@@ -1,19 +1,21 @@
 ```
 import json
-class LeoFibonacci:
+class LeoFiboPendragon:
   def __repr__(self):
     return json.dumps({
       'really_good_at': ['facilitating', 'teaching'],
-      'availability': ['open'],
+      'availability': 'open',
       'coaching': ['adaptive delivery', 'team structures', 'backlog mgmt'],
-      'code': ['JavaScript', 'Perl', 'PHP'],
-      'code_quality': ['2'],
-      'currently_learning': ['nostr', 'svelte', 'lightning'],
-      'interested_in': ['bitcoin', 'macroeconomics', 'freedom tech', 'climate news', 'solar weather', 'ancient aliens'],
-      'also_into': ['podcasting', 'reading', 'video production', 'hosting hackathons, openspace, etc'],
+      'self.code': ['JavaScript', 'PHP', 'Perl', 'Java'],
+      'self.code.quality': 2,
+      'currently_learning': ['NDK', 'svelte', 'lightning'],
+      'pubkey': 'npub15f3wjlgdpgz7rfs3kqqmarm3z63jcqq8xnrvt6py5jyzmhwru6tqrcqrap',
+      'interested_in': ['bitcoin', 'nostr', 'freedom tech'],
+      'not-so-guilty pleasures': ['climate conspiracies', 'solar weather', 'ancient aliens'],
+      'also_into': ['reading', 'podcasting', 'video production', 'hosting hackathons, openspace, etc'],
       'been_at_it_since': 1994
     })
-me = LeoFibonacci()
+me = LeoFiboPendragon()
 print(me)
 ```
 <!---
