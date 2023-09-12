@@ -1,0 +1,35 @@
+**Abstract**
+This father / daughter team works together (pairing) to build websites. Dad strives to instill clean programing habits and foster his daughter's problem-solving skills. Daughter introduces concepts from her HS AP CS classes. Together they are learning reactive website development (Svelte/TS) by using the nostr NDK to add dynamic functionality to the art of the possible. 
+
+In this session (workshop? see note at bottom), we will:
+- introduce our guiding mission: *instill values, learn together, grow our community*
+- share 3-5 examples of our nostrized websites
+	- show the website from a visitor's POV, talk about use case
+	- open the code on a couple to highlight our implementations of nostr NDK for retrieving specific notes and displaying user profiles
+	- demonstrate how to use private relays (e.g. for specific content or authors, or to test)
+- illustrate our current process (how we design the solution, task to implement, inspect the work, and iterate)
+- talk about our local community (we demo at meetups)
+- share some next steps / future plans we have
+
+Questions from audience are encouraged at any time (or at end, according to moderation).
+
+This is not a highly technical talk; however, some technical themes may slip into our discussion:
+    - svelte, html, css, typescript
+    - packages we use (nostr, others)
+    - github, ftp & hosting, domains, nip5, Alby
+
+target audience: family, teens, newbies to programming
+
+timing: 45 minutes, but can flex shorter/longer
+
+co-presenters: 
+- Sophia (17) 
+	- likes UI/UX
+	- has taken / is taking AP Comp Sci classes
+	- fluent in Japanese
+- Vic (dad, nym is Leo)
+	- fiat-mining as delivery coach for SW orgs
+	- has presented >20 conference workshops, held space / facilitated more than anyone you know
+	- well-versed in Tokyo nightlife circa 95-98 (don't tell my daughter)
+    
+Note on session format. This abstract describes a standard presentation with slides and screen shares. There will be Q&A but not much other audience activity. If preferred, we can convert this into a non-technical workshop by providing materials to each participant (likely a sheet of pre-printed paper for participants to write on), though that would add complexity / time to the above descriptions.
